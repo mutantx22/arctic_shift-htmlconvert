@@ -1,3 +1,9 @@
+# HTML Conversion
+
+      python processFiles-convert2html.py 
+
+converts all jsonl files to html for readability in browser 
+
 # Project Arctic Shift
 
 Making Reddit data accessible to researchers, moderators and everyone else.
